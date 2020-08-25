@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         LebelMy.text = "Hello world!"
     }
     @IBAction func Reset(_ sender: Any) {
-        LebelMy.text = ""
+        LebelMy.text = "Nice"
     }
     
     
